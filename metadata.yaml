@@ -1,0 +1,27 @@
+_repo: The-Greatest-English-Classic-A-Study-of-the-King-James-Version-of-the-Bible-and-Its-Influence-__1592
+creator:
+  author:
+    agent_name: McAfee, Cleland Boyd
+    alias: McAfee, Cleland B. (Cleland Boyd)
+    birthdate: 1866
+    deathdate: 1944
+    gutenberg_agent_id: '667'
+    url: http://www.gutenberg.org/2009/agents/667
+description: ''
+gutenberg_issued: '1999-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1592'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. English -- Versions -- Authorized'
+- !lcc 'BS'
+- !lcsh 'Bible -- Influence'
+- !lcsh 'Bible and literature'
+- !lcsh 'Bible -- History'
+title: "The Greatest English Classic\r\nA Study of the King James Version of the Bible\
+  \ and Its Influence on Life and Literature"
+url: http://www.gutenberg.org/ebooks/1592
