@@ -1,5 +1,5 @@
 _repo: The-Greatest-English-Classic-A-Study-of-the-King-James-Version-of-the-Bible-and-Its-Influence-__1592
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,6 +28,7 @@ subjects:
 - !lcsh 'Bible -- Influence'
 - !lcsh 'Bible and literature'
 - !lcsh 'Bible -- History'
+- GITenberg
 title: "The Greatest English Classic\r\nA Study of the King James Version of the Bible\
   \ and Its Influence on Life and Literature"
 url: http://www.gutenberg.org/ebooks/1592
